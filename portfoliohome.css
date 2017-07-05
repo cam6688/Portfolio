@@ -5,6 +5,7 @@ body {
 h1 {
     color: rgb(255, 205, 180);
     text-align: center;
+	font-family: Papyrus;
 }
 
 h2 {
@@ -12,7 +13,7 @@ h2 {
 }
 
 p {
-    font-family: verdana;
+    font-family: georgia;
     font-size: 14px;
     border: 10px dotted powderblue;
 	padding: 30px;
