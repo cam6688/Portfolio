@@ -16,16 +16,16 @@ img {
 
 div {
 	h1 {
-    color: rgb(255, 205, 180);
-    text-align: center;
-	font-family: bromello;
-}
+    		color: rgb(255, 205, 180);
+    		text-align: center;
+		font-family: bromello;
+	}
 
-h2 {
-    color: rgb(255, 205, 180);
-	font-family: bromello;
-	font-size: 40px;
-}
+	h2 {
+ 		color: rgb(255, 205, 180);
+		font-family: bromello;
+		font-size: 40px;
+	}
 }
 
 p {
