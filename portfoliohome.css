@@ -14,10 +14,15 @@ img {
     src: url(https://cam6688.github.io/Portfolio/bromello.ttf);
 }
 
+@font-face {
+	font-family: Shoreline;
+	src: url(https://cam6688.github.io/Portfolio/Shorelines_Script_Bold.otf);
+}
+
 h1 {
     	color: rgb(255, 205, 180);
     	text-align: center;
-	font-family: bromello;
+	font-family: Shoreline;
 }
 
 h2 {
