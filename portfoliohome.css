@@ -11,7 +11,7 @@ img {
 
 @font-face {
 	font-family: bromello;
-	src: https://cam6688.github.io/Portfolio/bromello.ttf;
+	src: url(https://cam6688.github.io/Portfolio/bromello.ttf);
 }
 
 h1 {
