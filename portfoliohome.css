@@ -7,7 +7,14 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    color: rgb(255, 205, 180);
+}
+
 p {
     font-family: verdana;
     font-size: 14px;
+    border: 10px dotted powderblue;
+	padding: 30px;
+	background: #ffffff"
 }
