@@ -2,9 +2,16 @@ body {
     background-color: #fff5e6;
 }
 
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%
+}
+
 @font-face {
 	font-family: bromello;
-	src: https://cam6688.github.io/Portfolio/bromello.ttf';
+	src: https://cam6688.github.io/Portfolio/bromello.ttf;
 }
 
 h1 {
