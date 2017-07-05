@@ -10,11 +10,12 @@ img {
 }
 
 @font-face {
-	font-family: bromello;
-	src: url(https://cam6688.github.io/Portfolio/bromello.ttf);
+    font-family: bromello;
+    src: url(https://cam6688.github.io/Portfolio/bromello.ttf);
 }
 
-h1 {
+div {
+	h1 {
     color: rgb(255, 205, 180);
     text-align: center;
 	font-family: bromello;
@@ -24,10 +25,11 @@ h2 {
     color: rgb(255, 205, 180);
 	font-family: bromello;
 }
+}
 
 p {
     font-family: georgia;
-    font-size: 16px;
+    font-size: 20px;
     border: 10px dotted powderblue;
 	padding: 30px;
 	background-color: #ffffff"
