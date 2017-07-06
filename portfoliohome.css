@@ -25,6 +25,11 @@ img {
 }
 
 @font-face {
+	font-family: Moonflowerbold;
+	src: url(https://cam6688.github.io/Portfolio/MoonFlowerBold.ttf);
+}
+
+@font-face {
 	font-family: Perfume;
 	src: url(https://cam6688.github.io/Portfolio/Perfume-Classic-Demo-Version.ttf);
 }
@@ -52,7 +57,7 @@ h2 {
 }
 
 p {
-    font-family: Moonflower;
+    font-family: Moonflowerbold;
     font-size: 30px;
     border: 10px dotted powderblue;
 	padding: 20px;
