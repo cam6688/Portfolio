@@ -27,6 +27,17 @@ img {
 @font-face {
 	font-family: Perfume;
 	src: url(https://cam6688.github.io/Portfolio/Perfume-Classic-Demo-Version.ttf);
+}
+
+@font-face {
+	font-family: Angelface;
+	src: url(https://cam6688.github.io/Portfolio/Angelface.otf);
+}
+
+@font-face {
+	font-family: Sweetpea;
+	src: url(https://cam6688.github.io/Portfolio/Sweet_Pea_2.ttf);
+}
 
 h1 {
     	color: rgb(255, 205, 180);
