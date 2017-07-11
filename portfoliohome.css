@@ -1,5 +1,5 @@
 body {
-    background-color: #fff5e6;
+    background-color: #ffe6e6;
 }
 
 img {
@@ -45,13 +45,13 @@ img {
 }
 
 h1 {
-    	color: rgb(255, 205, 180);
+    	color: #ffb3b3;
     	text-align: center;
 	font-family: Shoreline;
 }
 
 h2 {
- 	color: rgb(255, 205, 180);
+ 	color: #ffb3b3;
 	font-family: bromello;
 	font-size: 50px;
 }
@@ -73,7 +73,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #cc0033;
+    background-color: #990000;
 }
 
 li a {
@@ -88,5 +88,5 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #ff3333;
+    background-color: #ff5050;
 }
