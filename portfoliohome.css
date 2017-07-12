@@ -51,7 +51,7 @@ h1 {
 }
 
 h2 {
- 	color: #990000;
+ 	color: #FFb3b3;
 	font-family: bromello;
 	font-size: 50px;
 }
@@ -72,7 +72,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #990000;
+    background-color: #AE2A2A;
 }
 
 li a {
