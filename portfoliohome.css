@@ -9,6 +9,13 @@ img {
 	width: 25%
 }
 
+video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+}
+
 @font-face {
     font-family: bromello;
     src: url(https://cam6688.github.io/Portfolio/bromello.ttf);
