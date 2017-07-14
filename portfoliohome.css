@@ -27,23 +27,8 @@ video {
 }
 
 @font-face {
-	font-family: Moonflower;
-	src: url(https://cam6688.github.io/Portfolio/MoonFlower.ttf);
-}
-
-@font-face {
 	font-family: Moonflowerbold;
 	src: url(https://cam6688.github.io/Portfolio/MoonFlowerBold.ttf);
-}
-
-@font-face {
-	font-family: Perfume;
-	src: url(https://cam6688.github.io/Portfolio/Perfume-Classic-Demo-Version.ttf);
-}
-
-@font-face {
-	font-family: Angelface;
-	src: url(https://cam6688.github.io/Portfolio/Angelface.otf);
 }
 
 @font-face {
